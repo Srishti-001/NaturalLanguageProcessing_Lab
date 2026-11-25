@@ -1,0 +1,69 @@
+Entity,Label,Description
+"Natural Language Processing and Artificial Intelligence
+
+Natural Language Processing",ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+English,LANGUAGE,Any named language
+Hindi,GPE,"Countries, cities, states"
+Assamese,NORP,Nationalities or religious or political groups
+Bengali,NORP,Nationalities or religious or political groups
+Tamil,GPE,"Countries, cities, states"
+NLP,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+twenty,CARDINAL,Numerals that do not fall under another type
+twenty,DATE,Absolute or relative dates or periods
+Python,GPE,"Countries, cities, states"
+First,ORDINAL,"""first"", ""second"", etc."
+first,ORDINAL,"""first"", ""second"", etc."
+thousands,CARDINAL,Numerals that do not fall under another type
+hundreds or thousands,CARDINAL,Numerals that do not fall under another type
+twenty,CARDINAL,Numerals that do not fall under another type
+One,CARDINAL,Numerals that do not fall under another type
+Term Frequency-Inverse Document Frequency,ORG,"Companies, agencies, institutions, etc."
+one,CARDINAL,Numerals that do not fall under another type
+one,CARDINAL,Numerals that do not fall under another type
+NLP,ORG,"Companies, agencies, institutions, etc."
+One,CARDINAL,Numerals that do not fall under another type
+two,CARDINAL,Numerals that do not fall under another type
+GloVe,PERSON,"People, including fictional"
+FastText,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+one,CARDINAL,Numerals that do not fall under another type
+NLP,ORG,"Companies, agencies, institutions, etc."
+Entity Recognition,PERSON,"People, including fictional"
+NER,ORG,"Companies, agencies, institutions, etc."
+A. P. J. Abdul Kalam,PERSON,"People, including fictional"
+ISRO,ORG,"Companies, agencies, institutions, etc."
+India,GPE,"Countries, cities, states"
+A. P. J. Abdul Kalam,PERSON,"People, including fictional"
+ISRO,ORG,"Companies, agencies, institutions, etc."
+India,GPE,"Countries, cities, states"
+NER,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+Retrieval-Augmented Generation,ORG,"Companies, agencies, institutions, etc."
+RAG,PERSON,"People, including fictional"
+NLP,ORG,"Companies, agencies, institutions, etc."
+one,CARDINAL,Numerals that do not fall under another type
+NLP,ORG,"Companies, agencies, institutions, etc."
+Indic,NORP,Nationalities or religious or political groups
+English,LANGUAGE,Any named language
+NLP,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+more than one,CARDINAL,Numerals that do not fall under another type
+NLP,ORG,"Companies, agencies, institutions, etc."
+English,LANGUAGE,Any named language
+NLP,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+F1,GPE,"Countries, cities, states"
+BLEU,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+millions,CARDINAL,Numerals that do not fall under another type
+Grammar,PERSON,"People, including fictional"
+NLP,ORG,"Companies, agencies, institutions, etc."
+Chatbots,PERSON,"People, including fictional"
+NLP,ORG,"Companies, agencies, institutions, etc."
+Dataset,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
+NLP,ORG,"Companies, agencies, institutions, etc."
